@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm on the beginning stages of The self taught developer journey. I grew up in central Florida. While watching and soon after chasing my love for martial arts, I learned multiple styles such as Chito-ryu karate and Teakwondo. Years after competing nationally and becoming an instructor I enlisted in The United States Air Force as Security Forces. These days I spends my time learning front-end development and progressing towards being a full stack developer. I have an immense passion for bitcoin, privacy tools and open source software.</p>
+<p align="center">I'm on the beginning stages of The self taught developer journey. I grew up in central Florida while watching Bruce Lee and soon after devoting myself to martial arts. I learned multiple styles such as Chito-ryu karate and Teakwondo. After many years of competing nationally and becoming an instructor for adults and children, I enlisted in The United States Air Force as Security Forces. These days I spends my time learning front-end development and progressing towards being a full-stack developer. I also have an immense passion for bitcoin, privacy tools and open source software.</p>
 
 ###
 
