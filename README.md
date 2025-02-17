@@ -10,7 +10,7 @@
 <br>
 I grew up in central Florida while watching Bruce Lee movies and soon after devoting myself to martial arts. 
 <br>  
-I learned multiple styles such as Chito-ryu karate and Teakwondo. After two decades of competing nationally while also instructing adults and children I decided to enlist in The United States Air Force. After finishing my term I am now learning how to code and paving my way in the digital world. 
+I learned multiple styles such as Chito-ryu karate and Teakwondo. After two decades of competing nationally while also instructing adults and children I decided to enlist in The United States Air Force. After finishing my term I'm now learning how to code and paving my way in the digital world. 
 <br>
 <br>  
 These days I spends my time learning front-end development and progressing towards being a full-stack developer. 
