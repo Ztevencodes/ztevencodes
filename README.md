@@ -1,6 +1,8 @@
-Hello there!
-I'm Steven, striving to be a full-stack developer and based in Florida.
+# 👋 Hi, I’m Steven D. Hernandez
 
-I'm on the self-taught developer journey. I've been  studying on and off the last few years but finally this past February committed to go all in.
+- 🎖️ Air Force Veteran | 🥋 Martial Arts Instructor | 💻 Aspiring Software Engineer  
+- 🌱 Currently learning Full-Stack JavaScript (HTML, CSS, JS, Node.js, MongoDB)  
+- ⚡ Exploring Bitcoin Lightning Dev + Open Source  
+- 🛠️ Projects coming soon: Campus Event Tracker, Dojo Booking System
 
-I'll continue to update on here and behind the scenes on my instagram. 
+📫 Reach me at: ztevencodes@proton.me | LinkedIn: ztevencodes
