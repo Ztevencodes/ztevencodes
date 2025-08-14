@@ -1,8 +1,40 @@
-# 👋 Hi, I’m Steven D. Hernandez
+Hi, I’m Steven Hernandez 👋
 
-- 🎖️ Air Force Veteran | 🥋 Former Martial Arts Instructor | 💻 Aspiring Software Engineer  
-- 🌱 Currently learning Full-Stack JavaScript (HTML, CSS, JS, Node.js, MongoDB)  
-- ⚡ Exploring Bitcoin Lightning Dev + Open Source  
-- 🛠️ Projects coming soon: Campus Event Tracker, Dojo Booking System
+🎖 Veteran → Software Engineer | Cybersecurity Enthusiast
+💻 Full-Stack Development | 🛡️ Security-Minded Design | ⚡ Bitcoin Lightning
 
-📫 Reach me at: ztevencodes@proton.me | LinkedIn: ztevencodes
+🚀 What I’m Working On
+
+Building Dojo Scheduler, a martial arts class scheduling & attendance tracker (React + Node.js)
+
+Completing the TryHackMe SOC Level 1 and Pre-Security paths
+
+Exploring Bitcoin Lightning Network integrations and payment automation
+
+Contributing to open source security & privacy projects
+
+📚 Currently Learning
+
+Cybersecurity Fundamentals (CompTIA Security+, MITRE ATT&CK, SOC workflows)
+
+Full-Stack Development (JavaScript, React, Node.js, SQL, APIs)
+
+Applied Cryptography & Bitcoin Protocols
+
+Cloud Security basics (AWS, Azure)
+
+🤝 Looking to Collaborate On
+
+Security-focused web applications
+
+Open-source Bitcoin/Lightning projects
+
+Cybersecurity lab setups for beginners
+
+📫 Connect With Me
+
+LinkedIn: linkedin.com/in/stevenhernandez
+
+Nostr: [your npub here]
+
+Email: [your email here]
